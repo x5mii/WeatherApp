@@ -15,7 +15,6 @@ h1 {
     margin-bottom: 10px;
 }
 
-/* Form styling */
 form {
     background-color: #2e2e2e;
     padding: 20px;
@@ -66,7 +65,6 @@ button:hover {
     background-color: #42a7cc;
 }
 
-/* Weather display styling */
 .weather-container {
     margin-top: 20px;
     padding: 20px;
