@@ -4,13 +4,13 @@
 
 | Date     | Version | Summary                                                                                              |
 |----------|---------|------------------------------------------------------------------------------------------------------|
-|  | 0.0.1   |       |
-|  | 0.0.2   |       |
-|  | 0.0.3   |       |
-|  | 0.0.4   |       |
-|  | 0.0.5   |       |
-|  | 0.0.6   |       |
-|  | 0.1.0   |       |
+| 08.11.2024 | 0.0.1   | We started to inform ourselves about the theme of our project and the API, which we would use. We created this GitHub repository and made new milsestones as well as issues.     |
+| 15.11.2024 | 0.0.2   |       |
+| 22.11.2024 | 0.0.3   |       |
+| 29.11.2024 | 0.0.4   |       |
+| 6.11.2024  | 0.0.5   |       |
+| 13.11.2024 | 0.0.6   |       |
+| 20.11.2024 | 0.1.0   |       |
 
 
 ## 1. Project Overview
@@ -22,9 +22,14 @@
 
 | US-№ | Priority | Type            | Description                                                                                           |
 |------|----------|-----------------|-------------------------------------------------------------------------------------------------------|
-| 1    |          |                 |                                                                                                       |
-| 2    |          |                 |                                                                                                       |
-| 3    |          |                 |                                                                                                       |
+| 1    |  Must        |  Functional               | As a user, I want to search for weather data by entering a city name, so that I can get the current weather information for that location.                                                                                                      |
+| 2    |  Must        |  Functional               | As a user, I want to use a free weather API (like OpenWeatherMap) to fetch real-time weather data, so that I can receive accurate and up-to-date information.                                                                                                      |
+| 3    |  Must        |  Functional               | As a user, I want to have a responsive and stylish UI, so that I can easily navigate and view weather data.                                                                                                      |
+| 4    |  Must        |  Functional               | As a user, I want to display weather data in a clean, user-friendly way, including temperature, humidity, and weather icons, so that I can quickly understand the weather conditions.                                                                                                      |
+| 5    |  Must        |  Functional               | As a user, I want to save the last few searched locations in local storage, so that I can quickly reselect them without retyping.                                                                                                      |
+| 6    |  Must        |  Functional               | As a developer, I want to set up a Docker container to serve the app using a lightweight web server (like Nginx or a simple Node.js server), so that the application can run efficiently in different environments.                                                                                                      |
+| 7    |  Must        |  Functional               | As a developer, I want to create a Dockerfile to define the container and a docker-compose.yml file, so that it is easy to run the app locally and manage dependencies.                                                                                                      |
+| 8    |  Can        |   Functional              | As a developer, I want to push my Docker image to Docker Hub, so that I can easily deploy the app on any Docker-compatible platform in the future.                                                                                                      |
 
 
 ### 1.3 Test Cases
