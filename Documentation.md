@@ -16,7 +16,8 @@
 ## 1. Project Overview
 
 ### 1.1 WeatherApp
-✍️ Describe your project in one concise sentence.
+
+Our weather app is a responsive weather dashboard that allows users to search for weather data by city, displays real-time information using a free weather API, and stores recent searches in local storage, all within a Dockerized environment.
 
 ### 1.2 User Stories
 
