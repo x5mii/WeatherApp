@@ -1,0 +1,21 @@
+<head>
+    <title>Weather Checker</title>
+</head>
+<body>
+    <h1>Weather Checker</h1>
+    <form id="locationForm">
+        <label for="location">Enter Location:</label>
+        <input type="text" id="location" name="location" required>
+        <button type="submit">Get Weather</button>
+    </form>
+
+    <div id="weatherInfo" class="weather-container" style="display: none;">
+        <h2>Weather Information</h2>
+        <p><strong>Location:</strong> <span id="weather-location"></span></p>
+        <p><strong>Temperature:</strong> <span id="weather-temp"></span> °C</p>
+        <p><strong>Condition:</strong> <span id="weather-condition"></span></p>
+        <p><strong>Humidity:</strong> <span id="weather-humidity"></span>%</p>
+        <p><strong>Wind Speed:</strong> <span id="weather-wind"></span> m/s</p>
+    </div>
+</body>
+
