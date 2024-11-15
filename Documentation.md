@@ -5,7 +5,7 @@
 | Date     | Version | Summary                                                                                              |
 |----------|---------|------------------------------------------------------------------------------------------------------|
 | 08.11.2024 | 0.0.1   | We started to inform ourselves about the theme of our project and the API, which we would use. We created this GitHub repository and made new milsestones as well as issues.     |
-| 15.11.2024 | 0.0.2   |       |
+| 15.11.2024 | 0.0.2   | We implemented the weather API succesfully and started to work on the HTML / CSS part of our project      |
 | 22.11.2024 | 0.0.3   |       |
 | 29.11.2024 | 0.0.4   |       |
 | 6.12.2024  | 0.0.5   |       |
@@ -38,9 +38,28 @@ Our weather app is a responsive weather dashboard that allows users to search fo
 | TC-№ | Initial State                                | Input                                         | Expected Output                                             |
 |------|---------------------------------------------|-----------------------------------------------|--------------------------------------------------------------|
 | 1.1    |                                             |                                               |                                                              |
+| 1.2    |                                             |                                               |                                                              |
 | 2.1    |                                             |                                               |                                                              |
 | 2.2    |                                             |                                               |                                                              |
 | 3.1    |                                             |                                               |                                                              |
+
+| 3.2    |                                             |                                               |                                                              |
+
+| 4.1    |                                             |                                               |                                                              |
+
+| 4.2    |                                             |                                               |                                                              |
+
+| 5.1    |                                             |                                               |                                                              |
+
+| 5.2    |                                             |                                               |                                                              |
+
+| 6.1    |                                             |                                               |                                                              |
+| 6.2    |                                             |                                               |                                                              |
+| 7.1    |                                             |                                               |                                                              |
+| 7.2    |                                             |                                               |                                                              |
+| 8.1    |                                             |                                               |                                                              |
+| 8.2    |                                             |                                               |                                                              |
+
 
 
 ### 1.4 Diagrams
