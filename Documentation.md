@@ -37,12 +37,12 @@ Our weather app is a responsive weather dashboard that allows users to search fo
 
 | TC-№ | Initial State                                | Input                                         | Expected Output                                             |
 |------|---------------------------------------------|-----------------------------------------------|--------------------------------------------------------------|
-| 1.1    |                                             |                                               |                                                              |
-| 1.2    |                                             |                                               |                                                              |
-| 2.1    |                                             |                                               |                                                              |
-| 2.2    |                                             |                                               |                                                              |
-| 3.1    |                                             |                                               |                                                              |
-| 3.2    |                                             |                                               |                                                              |
+| 1.1    |  Weather app is loaded, no city selected.                                           |  Enter "London" in the search bar and submit.                                             |  Display current weather data for "London".                                                            |
+| 1.2    |  Weather app is loaded, no city selected.                                           |  Enter invalid city name (e.g., "Xyz123") in search bar and submit.                                             |  Display error message "City not found".                                                            |
+| 2.1    |  App is set up with API key for OpenWeatherMap.                                           |  Fetch weather for "New York".                                             |  API returns real-time weather data for "New York".                                                            |
+| 2.2    |  App is set up with invalid API key.                                           |  Fetch weather for "New York".                                             |  Display error message "API authentication failed".                                                            |
+| 3.1    |  App is opened on desktop browser.                                           |  Resize browser to test responsiveness.                                             |  UI elements adjust to screen size properly.                                                            |
+| 3.2    |  App is opened on mobile browser.                                           |  View weather data page.                                             |  UI is displayed in a mobile-friendly layout.                                                            |
 | 4.1    |                                             |                                               |                                                              |
 | 4.2    |                                             |                                               |                                                              |
 | 5.1    |                                             |                                               |                                                              |
