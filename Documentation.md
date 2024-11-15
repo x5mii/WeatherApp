@@ -49,11 +49,9 @@ Our weather app is a responsive weather dashboard that allows users to search fo
 | 5.2    |  Local storage has prior searches.                                           |  Refresh the app.                                             |  Display previously searched cities in a list.                                                            |
 | 5.3    |  List of saved searches is displayed.                                           |  Click on "Paris" from the list.                                             |  Display weather data for "Paris".                                                            |
 | 6.1    |  Docker is installed, no container running.                                           |  Build and run the Docker container.                                             |  App is served using the specified web server.                                                            |
-| 7.1    |                                             |                                               |                                                              |
-| 7.2    |                                             |                                               |                                                              |
-| 8.1    |                                             |                                               |                                                              |
-| 8.2    |                                             |                                               |                                                              |
-
+| 7.1    |  Docker and docker-compose are installed.                                           |  Run docker-compose up.                                             |  All services defined in docker-compose.yml are up and running.                                                            |
+| 7.2    |  Docker is installed, no container images exist.                                           |  Build Docker image using Dockerfile.                                             |  Image is built successfully and can be run.                                                            |
+| 8.1    |  Docker image is built locally.                                           |  Push image to Docker Hub.                                             |  Image is uploaded to Docker Hub successfully.                                                            |
 
 ### 1.4 Diagrams
 
