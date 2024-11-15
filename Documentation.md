@@ -55,6 +55,8 @@ Our weather app is a responsive weather dashboard that allows users to search fo
 
 ### 1.4 Diagrams
 
+![WEATHERAPP](https://github.com/user-attachments/assets/8e8e87af-9cf4-44d1-9673-c19189218b30)
+
 ## 2. Project Planning
 
 | AP-№ | Deadline | Responsible | Description | Planned Time |
