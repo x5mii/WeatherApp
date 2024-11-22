@@ -6,7 +6,7 @@
 |----------|---------|------------------------------------------------------------------------------------------------------|
 | 08.11.2024 | 0.0.1   | We started to inform ourselves about the theme of our project and the API, which we would use. We created this GitHub repository and made new milsestones as well as issues.     |
 | 15.11.2024 | 0.0.2   | We implemented the weather API succesfully and started to work on the HTML / CSS part of our project      |
-| 22.11.2024 | 0.0.3   |       |
+| 22.11.2024 | 0.0.3   | We updated the UI of the Website and fixed some functional errors with the implementation of the map.      |
 | 29.11.2024 | 0.0.4   |       |
 | 6.12.2024  | 0.0.5   |       |
 | 13.12.2024 | 0.0.6   |       |
