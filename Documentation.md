@@ -69,29 +69,35 @@ Our weather app is a responsive weather dashboard that allows users to search fo
 | 4.A     |   22.11.2024        |  Lorenzo / Samuel                |  Study the layout of other weather apps and try to take inspirationn from them            |  30'               |
 | 4.B     |   22.11.2024        |  Lorenzo / Samuel               |  Implement them inside of the HTML and CSS, also the JS to be able to display the data properly            |  120'               |
 | 5.A     |   29.11.2024       |  Samuel                |  Find out the best way to store data, either through json local storage or through a DB           |  60'               |
-| 5.B     |   29.11.2024       |  Samuel               |  Implement the inside of the JS logic            |  120'              |
+| 5.B     |   29.11.2024       |  Lorenzo               |  Implement the inside of the JS logic            |  120'              |
 | 6.A     |   13.12.2024       |  Samuel               |  Set up a docker container through node.js            |  120'              |
 | 7.A     |   13.12.2024       |  Lorenzo                |  Create a docker file and a docker-compose.yml            |  120'              |
 | 8.A     |   13.12.2024       |  Samuel / Lorenzo               |  Push export the docker image to DockerHub            |  60'              |
 
-## 3. Decision
-✍️ Document here the decisions and assumptions you made related to your user stories and implementation.
-
-## 4. Implementation
+## 3. Implementation
 
 | AP-№ | Date     | Responsible      | Planned Time | Actual Time     |
 |------|----------|------------------|--------------|-----------------|
-| 1.A     |          |                  |              |                 |
-| 1.B     |          |                  |              |                 |
-| 2.A     |          |                  |              |                 |
+| 1.A  | 15.11.2024         |  Samuel                |  180'            |  300'              |
+| 1.B  | 15.11.2024         |  Samuel / Lorenzo               |  120'            |  180'               |
+| 2.A  | 15.11.2024         |  Samuel                |  30'            |  15'               |
+| 2.B  | 15.11.2024         |  Samuel                |  60'            |  30'               |
+| 3.A  | 22.11.2024         |  Lorenzo                |  60'            |  120'               |
+| 4.A  | 22.11.2024         |  Lorenzo / Samuel                |  30'            |  30'               |
+| 4.B  | 22.11.2024         |  Lorenzo / Samuel                |  120'            |  180'               |
+| 5.A  | 29.11.2024         |  Samuel                |  60'            |  60'               |
+| 5.B  | 29.11.2024         |  Lorenzo                |  120'            |  180'               |
+| 6.A  | 13.12.2024         |  Samuel                |  120'           |  180'               |
+| 7.A  | 13.12.2024         |  Lorenzo                |  120'            |  180'               |
+| 8.A  | 13.12.2024         |  Samuel / Lorenzo                |  60'            |  30'               |
 
-## 5. Test Report and Evaluation
+## 4. Test Report and Evaluation
 
 ### Test Report
 
 | TC-№ | Test Status | Remarks                                                                 |
 |------|-------------|-------------------------------------------------------------------------|
-| 1.1     |             |                                                                         |
+| 1.1  |             |                                                                         |
 
-# 6. Evaluation
+# 5. Evaluation
 ✍️ Add a link here to your learning report.
