@@ -1,6 +1,6 @@
 # Weather App Project Documentation
-- **Lorenzo**
-- **Samuel**
+- **Lorenzo Lai**
+- **Samuel Lucena Losada**
 
 | Date     | Version | Summary                                                                                              |
 |----------|---------|------------------------------------------------------------------------------------------------------|
