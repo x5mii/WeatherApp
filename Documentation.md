@@ -5,12 +5,12 @@
 | Date     | Version | Summary                                                                                              |
 |----------|---------|------------------------------------------------------------------------------------------------------|
 | 08.11.2024 | 0.0.1   | We started to inform ourselves about the theme of our project and the API, which we would use. We created this GitHub repository and made new milsestones as well as issues.     |
-| 15.11.2024 | 0.0.2   | We implemented the weather API succesfully and started to work on the HTML / CSS part of our project      |
+| 15.11.2024 | 0.0.2   | We implemented the weather API succesfully and started to work on the HTML / CSS part of our project.      |
 | 22.11.2024 | 0.0.3   | We updated the UI of the Website and fixed some functional errors with the implementation of the map.      |
-| 29.11.2024 | 0.0.4   | We started to dockerize our project, while also still trying to improve the front end aspect of our web page.      |
-| 6.12.2024  | 0.0.5   |      |
-| 13.12.2024 | 0.0.6   |       |
-| 20.12.2024 | 0.1.0   |       |
+| 29.11.2024 | 0.1.0   | We started to dockerize our project, while also still trying to improve the front end aspect of our web page.      |
+| 6.12.2024  | 0.1.1   | We started finalizing the website to upload it to DockerHub.     |
+| 13.12.2024 | 1.0.0   | We finalized uploading Image on to DockerHub.     |
+| 20.12.2024 | 1.0.0   | Bufferday to work on our portfolios.      |
 
 
 ## 1. Project Overview
@@ -99,20 +99,20 @@ Our weather app is a responsive weather dashboard that allows users to search fo
 |------|-------------|-------------------------------------------------------------------------|
 | 1.1  |      OK     |                                                                         |
 | 1.2  |      OK     |                                                                         |
-| 2.1  |      OK     |Takes real time data                                                     |
-| 2.2  |             |                                                                         |
-| 3.1  |       OK    |                                                                         |
-| 3.2  |             |                                                                         |
-| 4.1  |       OK    |                                                                        |
-| 4.2  |             |                                                                         |
-| 5.1  |             |                                                                         |
-| 5.2  |             |                                                                         |
-| 5.3  |             |                                                                         |
-| 6.1  |             |                                                                         |
-| 7.1  |             |                                                                         |
-| 7.2  |             |                                                                         |
-| 8.1  |             |                                                                         |
+| 2.1  |      OK     | Takes real time data                                                    |
+| 2.2  |      OK     |                                                                         |
+| 3.1  |      OK     |                                                                         |
+| 3.2  |      OK     |                                                                         |
+| 4.1  |      OK     |                                                                         |
+| 4.2  |      OK     |                                                                         |
+| 5.1  |      OK     |                                                                         |
+| 5.2  |      OK     |                                                                         |
+| 5.3  |      OK     |                                                                         |
+| 6.1  |      OK     |                                                                         |
+| 7.1  |      OK     |                                                                         |
+| 7.2  |      OK     |                                                                         |
+| 8.1  |      OK     |                                                                         |
 
 
 # 5. Evaluation
-✍️ Add a link here to your learning report.
+Our project overall came out to be a success. Thanks to good planing and great communication, we were able to finish the website with all of our user stories completed. As seen in the tests we were also able to fully implement and test everything. Overall this project was a success.
