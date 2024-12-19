@@ -12,7 +12,6 @@ document.getElementById('locationForm').addEventListener('submit', function (e) 
             return response.json();
         })
         .then(data => {
-            // Update weather information
             document.getElementById('weather-location').textContent = data.name;
             document.getElementById('weather-temp').textContent = data.main.temp;
             document.getElementById('weather-condition').textContent = data.weather[0].description;
