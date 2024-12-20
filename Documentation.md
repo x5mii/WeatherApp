@@ -115,4 +115,8 @@ Our weather app is a responsive weather dashboard that allows users to search fo
 
 
 # 5. Evaluation
-Our project overall came out to be a success. Thanks to good planing and great communication, we were able to finish the website with all of our user stories completed. As seen in the tests we were also able to fully implement and test everything. Overall this project was a success.
+Our porject was a sucess with only minor adjustments needed, such as the implementation of a real data bank, isntead of using the browser local storage to see the last researched locations. We managed to work quite well together and the documentation was updated every day of the LA. In ou opinion, we managed our time and work-packages quite well and were able to finish everything in time.
+
+Overall I would give us a 8.5 out of ten rating for finishing the project and achieving our personal goals.
+
+Here is the link to 
